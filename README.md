@@ -1,5 +1,9 @@
 # ekush-rpc@1.0.0
------------------------
+------------------------
+
+![SONUÇ](https://i.imgur.com/m06wZ5u.png)
+
+----------------------
 #### Web Sitesinde Yapman Gerekenler:
 - Öncelikle  **[BU SİTEYE](https://discord.com/developers/applications)**  gidip bir uygulama oluştur.
 -  Daha sonra uygulamana **GENERAL İNFORMATİON** kısmından bir isim ve logo ver.
@@ -10,7 +14,7 @@
 --------------------------
 #### İndirdiklerinle Yapman Gerekenler:
 - **"Ayarlar.exe"** uygulamasını çalıştır. Bu dosyanın amacı **"data.ini"** dosyasını düzenlemektir. Eğer kullanmayı biliyorsan manuel olarak da yapabilirsin.
-- İstenilen bilgileri ** hiçbir yeri boş bırakmadan** gir.
+- İstenilen bilgileri **hiçbir yeri boş bırakmadan** gir.
 - **"... Resmine Verdiğin İsim"** kısmına **web sitesinden verdiğin ismi yaz.**
 - Her bilgiyi doldurduysan ve hata vermediyse **"ayarlar.exe"** otomatik olarak kapanacaktır.
 ----------------------------
